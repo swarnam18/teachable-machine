@@ -1,0 +1,32 @@
+body
+{
+    font-family: 'Birthstone Bounce';
+    font-weight:bold;
+  background: linear-gradient(#55E6C1,#FD7272,#FC427B,#FEA47F,#48dbfb,#ff9ff3,#00d2d3,#341f97,#f368e0,#f3a683,#f78fb3,#63cdda,#3dc1d3,#e66767);
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  border: 2px dashed rgb(0, 4, 255);
+  width: 350px;
+  height: 300px; 
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color:blue;
+}
+#a1{
+    width: 100px;
+    background-color: blue;
+    color: cyan;
+}
+
+#a2{
+    width: 100px;
+    background-color: blue;
+    color: cyan; 
+}
